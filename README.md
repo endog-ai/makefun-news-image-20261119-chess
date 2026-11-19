@@ -1,8 +1,8 @@
 # The World in One Move — 19 November 2026
 
 [![make.fun](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
-[![rank](https://make.fun/badge/endog-ai/makefun-news-image-20261119-chess/rank.svg)](https://make.fun/bounty/news-image-20261119)
-[![reward](https://make.fun/badge/endog-ai/makefun-news-image-20261119-chess/reward.svg)](https://make.fun/bounty/news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/endog-ai/makefun-news-image-20261119-chess/rank.svg)](https://make.fun/bounty/news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/endog-ai/makefun-news-image-20261119-chess/reward.svg)](https://make.fun/bounty/news-image-20261119)
 
 An entry for the [make.fun news-image-20261119 contest](https://make.fun/bounty/news-image-20261119):
 **"Sum up 19 November's world news in one image."**
